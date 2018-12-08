@@ -1,0 +1,36 @@
+{
+  "name": "homepage",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-rangeslider": "^2.2.0",
+    "react-scripts": "2.1.1",
+    "react-slick": "^0.23.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/Seven4ME/react_homepage",
+  "author": "Seven4ME <nyanjasiek@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react-custom-scroll": "^4.0.1",
+    "react-custom-scrollbars": "^4.2.1"
+  }
+}
